@@ -1,0 +1,22 @@
+.x{
+    gap: 2rem;
+    width: 200px;
+    height: 65px;
+    background-color: coral;
+    overflow-x:  visible;
+    margin-top: 50px;
+}
+.y{
+    gap: 2rem;
+    width: 200px;
+    height: 65px;
+    background-color:coral ;
+    overflow-y: visible;
+    margin-top: 50px;
+}
+.overflow{
+    gap:2rem;
+    width: 200px;
+    height: 65px;
+    background-color:coral;
+}
